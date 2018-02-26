@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProfiloUtente</string>
+    <string name="profile_picture">immagine_del_profilo</string>
+    <string name="name">nome</string>
+    <string name="birthday">data di nascita</string>
+    <string name="country">nazione</string>
+    <string name="Italy">Italia</string>
+    <string name="date">09/08/1964</string>
+</resources>
